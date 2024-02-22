@@ -1,0 +1,17 @@
+.clearfix{
+    background-color: lightgrey;
+    border-radius: 5px;
+}
+/* containers */
+.bottom-container{
+    margin: 20px;
+    padding: 20px;
+}
+.pricing{
+    display: flex;
+    margin: 20px;
+}
+.list-group{
+    margin: 20px;
+    
+}
